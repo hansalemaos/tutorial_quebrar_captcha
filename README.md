@@ -18,8 +18,10 @@ Se gostou do conteúdo, não esqueça de deixar o seu like, se inscrever no cana
 
 Aproveite o vídeo e aprimore suas habilidades para vencer reCAPTCHA com sucesso!
 
-Código-fonte: https://github.com/hansalemaos/tutorial_quebrar_captcha/blob/main/parte1.py
+## Código-fonte: 
+https://github.com/hansalemaos/tutorial_quebrar_captcha/blob/main/parte1.py
 
+## Pacotes de Python:
 pip install rapidfuzz undetected-chromedriver pandas pytesseract PrettyColorPrinter mousekey fast-ctypes-screenshots
 
 [![YT](https://i.ytimg.com/vi/yCA4wUKdrgs/maxresdefault.jpg)](https://www.youtube.com/watch?v=yCA4wUKdrgs)
@@ -39,7 +41,6 @@ Não perca a oportunidade de se destacar no mundo da automação e simplificar s
 ## Virtual Audio Cable (VAC)
 https://vac.muzychenko.net/en/download.htm
 
-
 ## ffmpeg
 https://www.gyan.dev/ffmpeg/builds/
 
@@ -52,7 +53,8 @@ https://www.opera.com/gx
 ## Pacotes de Python:
 pip install ffmpegaudiorecord audiotranser touchtouch selenium a-selenium-iframes-crawler operagxdriver
 
-Código-fonte: https://github.com/hansalemaos/tutorial_quebrar_captcha/blob/main/parte2.py
+## Código-fonte: 
+https://github.com/hansalemaos/tutorial_quebrar_captcha/blob/main/parte2.py
 
 
 [![YT](https://i.ytimg.com/vi/7x52j5idG2w/maxresdefault.jpg)](https://www.youtube.com/watch?v=7x52j5idG2w)
