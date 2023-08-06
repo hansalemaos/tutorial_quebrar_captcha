@@ -52,5 +52,8 @@ https://www.opera.com/gx
 ## Pacotes de Python:
 pip install ffmpegaudiorecord audiotranser touchtouch selenium a-selenium-iframes-crawler operagxdriver
 
+Código-fonte: https://github.com/hansalemaos/tutorial_quebrar_captcha/blob/main/parte2.py
+
+
 [![YT](https://i.ytimg.com/vi/7x52j5idG2w/maxresdefault.jpg)](https://www.youtube.com/watch?v=7x52j5idG2w)
 [https://www.youtube.com/watch?v=7x52j5idG2w]()
